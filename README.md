@@ -17,3 +17,5 @@ Google APIs Required:
     Places API
     Roads API
     Time Zone API
+
+[![](https://jitpack.io/v/FlohBauch/Darksky-feat-GoogleMaps.svg)](https://jitpack.io/#FlohBauch/Darksky-feat-GoogleMaps)
